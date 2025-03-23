@@ -18,3 +18,4 @@
 
 <h2>{message}</h2>
 <h1>hello</h1>
+<h1>hello im edria wanna join this journey mail me at: ragnaroketernal132002@gmail.com</h1>
